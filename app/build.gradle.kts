@@ -11,8 +11,8 @@ android {
         applicationId = "it.bitrisetest"
         minSdk = 26
         targetSdk = 34
-        versionCode = 2
-        versionName = "2.0"
+        versionCode = 250400
+        versionName = "25.04.00"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
